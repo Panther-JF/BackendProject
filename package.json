@@ -12,5 +12,10 @@
     "backend"
   ],
   "author": "Jayesh Farkya",
-  "license": "ISC"
+  "license": "ISC",
+
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+
 }
