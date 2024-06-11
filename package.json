@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "backend project learned from youtube",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
@@ -13,9 +13,8 @@
   ],
   "author": "Jayesh Farkya",
   "license": "ISC",
-
   "devDependencies": {
-    "nodemon": "^3.1.3"
+    "nodemon": "^3.1.3",
+    "prettier": "^3.3.2"
   }
-
 }
