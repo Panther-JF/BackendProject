@@ -54,6 +54,7 @@ web_modules/
 
 # Optional eslint cache
 .eslintcache
+src/db/How_to_connect.txt
 
 # Microbundle cache
 .rpt2_cache/
@@ -119,3 +120,4 @@ dist
 .pnp.*
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
+
